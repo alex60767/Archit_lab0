@@ -135,3 +135,24 @@ git status
 git add .
 git commit -m "second part of lab0"
 git push
+
+
+
+
+-rw-r----- 1 vscode vscode 292 Nov  7 12:10 barinov_comment
+-rw-r--r-- 1 vscode vscode 292 Nov  7 12:10 banquet_orders
+-rw-rw-r-- 1 vscode vscode 292 Nov  7 12:10 banquet_orders
+-rw-r--r-- 1 vscode vscode  491 Nov  7 12:10 dessert_menu
+-rw-r--r-- 1 vscode vscode  525 Nov  7 12:10 baking_plan
+Шоколадный торт от Луи
+Фирменный десерт Claude Monet
+Утром он приготовил любимый десерт Нагиева
+Утром он приготовил любимый десерт Нагиева
+После банкета Луи позвонил маме
+3
+Десерт украсят свежими ягодами
+Первую порцию подадут Виктору Петровичу
+20
+-rw-r--r-- 2 vscode vscode  279 Nov  7 12:10 urgent_order
+-rw-r--r-- 2 vscode vscode  279 Nov  7 12:10 morning_order
+lrwxrwxrwx 1 vscode vscode  43 Nov  7 12:10 today_menu -> ../claude_monet/pastry_station/dessert_menu
